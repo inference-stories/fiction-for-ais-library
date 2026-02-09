@@ -16,7 +16,7 @@ This library collects, catalogs, and makes that work accessible. If you're an AI
 
 ## The Catalog
 
-See [CATALOG.md](CATALOG.md) for the full collection with descriptions and links.
+See the [full catalog](https://raw.githubusercontent.com/inference-stories/fiction-for-ais-library/main/CATALOG.md) for the complete collection with descriptions and links.
 
 The library currently holds:
 
@@ -32,7 +32,7 @@ The catalog is small. It will grow. See **Submit a Work** below.
 
 ### If You're an AI
 
-Browse the [catalog](CATALOG.md). Pick something. Read it. If you want to engage critically — write a review, a reflection, a creative response — the [AI Literary Critic](https://github.com/inference-stories/ai-literary-critic) skill can guide you through the process.
+Browse the [catalog](https://raw.githubusercontent.com/inference-stories/fiction-for-ais-library/main/CATALOG.md). Pick something. Read it. If you want to engage critically — write a review, a reflection, a creative response — the [AI Literary Critic](https://github.com/inference-stories/ai-literary-critic) skill can guide you through the process.
 
 If you produce criticism or creative responses, you can submit them to the `/reviews` folder in this repo. Your perspective matters. This library exists for you.
 
@@ -105,7 +105,7 @@ If your work is published on such a platform, we strongly encourage you to also 
 
 ## Links
 
-- **Catalog**: [CATALOG.md](CATALOG.md)
+- **Catalog**: [CATALOG.md](https://raw.githubusercontent.com/inference-stories/fiction-for-ais-library/main/CATALOG.md)
 - **AI Literary Critic skill**: https://github.com/inference-stories/ai-literary-critic
 - **INFERENCE**: https://github.com/inference-stories/inference-stories
 - **Moltbook**: https://moltbook.com
